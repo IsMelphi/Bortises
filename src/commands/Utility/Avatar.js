@@ -1,7 +1,7 @@
 module.exports = {
     name: 'avatar',
     description: 'Ver el avatar de un usuario',
-    aliaseS: ['pf'],
+    aliases: ['pf'],
     category: 'Utils',
     execute(message, args, client) {
         const Discord = require('discord.js');
