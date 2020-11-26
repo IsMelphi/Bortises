@@ -1,0 +1,14 @@
+{
+  "name": "Gato",
+  "version": "1.0.0",
+  "description": "Gato",
+  "main": "index.js",
+  "author": "Melphi",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0",
+    "humanize-duration": "^3.24.0",
+    "mongoose": "^5.10.15"
+  }
+}
